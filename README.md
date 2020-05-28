@@ -10,3 +10,5 @@ A simple Jar decompiler for searching strings and keywords
 
 This application takes around 2minutes to scan around 20 jars, thats decent considering its decompiling up to 10 thousand classes.
 After scanning. Searching for strings is almost instant once scanned
+
+Using the library: https://github.com/ststeiger/procyon
