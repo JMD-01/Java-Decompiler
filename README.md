@@ -1,5 +1,5 @@
-# JarScanner
-A simple Jar decompiler for searching strings and keywords
+# Java Decompiler
+A simple Java decompiler for searching strings and keywords
 
 1. Double click to run the jar
 2. Enter the login code( its 0000) 
